@@ -1,3 +1,4 @@
 Titulo:"Análisis del mercado"
-Fecha:"Mauo 2023"
-Autores:Ana y Pablo
+Fecha:"Mauo 2023" Autores:Ana y Pablo
+Objetivo: Analizar el comportamiento del mercado de smartphones en el
+primer trimestre del año.
