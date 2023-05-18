@@ -1,0 +1,3 @@
+Experimento:
+	Se realizó un estudio de mercado para determinar la preferencia de los consumidores por la pantalla de los smartphones.
+	Los resultados indican que la mayoría de los consumidores prefieren pantallas grandes.
